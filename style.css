@@ -1,21 +1,21 @@
-@import "font.css";
-@import "reset.css";
-@import "root.css";
+@import "/css/font.css";
+@import "/css/reset.css";
+@import "/css/root.css";
 
 /* 기본설정들 */
-@import "status-bar.css";
-@import "top-header.css";
-@import "profile.css";
-@import "nav.css";
-@import "noti.css";
+@import "/css/status-bar.css";
+@import "/css/top-header.css";
+@import "/css/profile.css";
+@import "/css/nav.css";
+@import "/css/noti.css";
 
 /* 페이지마다 있는 항목들 */
-@import "login.css";
-@import "friends.css";
-@import "chats.css";
-@import "more.css";
-@import "setting.css";
-@import "music.css";
+@import "/css/login.css";
+@import "/css/friends.css";
+@import "/css/chats.css";
+@import "/css/more.css";
+@import "/css/setting.css";
+@import "/css/music.css";
 
 html {
   display: flex;
